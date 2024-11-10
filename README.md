@@ -26,7 +26,7 @@
 🐧 --> Avaiable for Linux<br>
 🤖 --> Avaiable for Android<br>
 📱 --> Avaiable for iOS/iPadOS<br>
-🕸️ --> Avaiable on WEB<br>
+🌐 --> Avaiable on Web<br>
 🆓 --> Freemium software
 
 ## Applications
@@ -97,6 +97,8 @@ sourcing, building, and deploying data science and AI initiatives.
 - [Rectangle](https://rectangleapp.com "https://rectangleapp.com") 🍎 Move and resize windows in macOS using keyboard shortcuts or snap areas.
 - [Balena Etcher](https://etcher.balena.io "https://etcher.balena.io") 🍎 🪟 🐧 Flash OS images to SD cards & USB drives, safely and easily.
 - [Unetbootin](https://unetbootin.github.io "https://unetbootin.github.io") 🍎 🪟 🐧 Create bootable Live USB drives for Ubuntu and other Linux distributions.
+- [Rufus](https://rufus.ie "https://rufus.ie") 🪟 Create bootable USB drives.
+- [Ventoy](https://ventoy.net "https://ventoy.net") 🪟 🐧 Create bootable USB drive for ISO/WIM/IMG/VHD (x)/EFI files.
 - [Keka](https://www.keka.io "https://www.keka.io") 🍎 The macOS file archiver.
 - [Appcleaner](https://freemacsoft.net/appcleaner "https://freemacsoft.net/appcleaner/") 🍎 🆓 Small application which allows you to thoroughly uninstall unwanted apps.
 - [Pika](https://superhighfives.com/pika "https://superhighfives.com/pika") 🍎 Colour picker app for macOS.
@@ -133,7 +135,6 @@ sourcing, building, and deploying data science and AI initiatives.
 - [UTM](https://mac.getutm.app "https://mac.getutm.app") 🍎 Securely run operating systems on your Mac.
 - [Rustdesk](https://rustdesk.com "https://rustdesk.com") 🍎 🪟 🐧 🤖 📱 The fast open-source remote access and support software.
 - [Tunnelblick](https://tunnelblick.net "https://tunnelblick.net") 🍎 Free software for OpenVPN on macOS.
-- [Rufus](https://rufus.ie "https://rufus.ie") 🪟 Create bootable USB drives.
 ### Backup and Downloader
 - [qbittorrent](https://www.qbittorrent.org "https://www.qbittorrent.org") 🍎 🪟 🐧 Cross-platform BitTorrent client written in native C++.
 - [Transmissionbt](https://transmissionbt.com "https://transmissionbt.com") 🍎 🪟 🐧 Fast, easy, and free BitTorrent client.
@@ -146,7 +147,8 @@ sourcing, building, and deploying data science and AI initiatives.
 ### Games
 - [Retroarch](https://www.retroarch.com "https://www.retroarch.com") 🍎 🪟 🐧 🤖 Frontend for emulators, game engines and media players.
 - [SuperTuxKart](https://supertuxkart.net "https://supertuxkart.net") 🍎 🪟 🐧 🤖 3D arcade racer with a variety characters, tracks, and modes to play.
-- [Lichess](https://lichess.org "https://lichess.org") 🤖 📱 🕸️ Is a free/libre, open-source chess server powered by volunteers and donations.
+- [Lichess](https://lichess.org "https://lichess.org") 🤖 📱 🌐 Is a free/libre, open-source chess server powered by volunteers and donations.
+- [Battleship](https://battleship-game.org "https://battleship-game.org") 🌐 Battleship game.
 ### Other
 - [Tabby](https://tabby.sh "https://tabby.sh") 🍎 🪟 🐧 Customizable terminal app for local shells, serial, SSH and Telnet connections.
 - [SweetHome3D](https://www.sweethome3d.com "https://www.sweethome3d.com") 🍎 🪟 🐧 Free interior design application.
