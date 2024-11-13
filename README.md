@@ -41,7 +41,8 @@
 - [Transistor](https://f-droid.org/en/packages/org.y20k.transistor/ "https://f-droid.org/en/packages/org.y20k.transistor/") 🤖 Transistor is an app for listening to radio stations over the internet.
 - [Voice Audiobook Player](https://f-droid.org/en/packages/de.ph1b.audiobook/ "https://f-droid.org/en/packages/de.ph1b.audiobook/") 🤖 Simple audiobook player.
 - [Harmonoid](https://harmonoid.com/downloads "https://harmonoid.com/downloads") 🪟 🐧 🤖 Plays & manages your music library.
-- 
+- [Spotube](https://f-droid.org/en/packages/oss.krtirtho.spotube/ "https://f-droid.org/en/packages/oss.krtirtho.spotube/") 🍎 🪟 🐧 🤖 Lightweight & resource friendly spotify client without requiring Spotify Premium.
+- [RiMusic](https://f-droid.org/en/packages/it.fast4x.rimusic/ "https://f-droid.org/en/packages/it.fast4x.rimusic/") 🤖 A multilingual Android application for streaming music from YouTube Music.
 #### Video and Streaming
 - [HandBrake](https://handbrake.fr "https://handbrake.fr") 🍎 🪟 🐧 Software for video transcoder.
 - [OBS Studio](https://obsproject.com "https://obsproject.com") 🍎 🪟 🐧 Software for video recording and live streaming.
@@ -68,6 +69,12 @@
 - [Brave](https://brave.com "https://brave.com") 🍎 🪟 🐧 🤖 📱 🆓 Fast, secure, and privacy-focused browser that blocks ads and trackers.
 - [Tor Browser](https://www.torproject.org "https://www.torproject.org") 🍎 🪟 🐧 🤖 Tor is a free overlay network for enabling anonymous communication.
 #### Browser Extension
+- [Ublock origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/ "https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/") 🌐 An efficient wide-spectrum content blocker.
+- [Privacy Badger](https://addons.mozilla.org/it/firefox/addon/privacy-badger17/ "https://addons.mozilla.org/it/firefox/addon/privacy-badger17/") 🌐 Automatically learns to block invisible trackers.
+- [Darkreader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/ "https://addons.mozilla.org/en-US/firefox/addon/darkreader/") 🌐 Dark mode for every website.
+- [Enhancer for YouTube](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/ "https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/") 🌐 🆓 Take control of YouTube and boost your user experience.
+- [CanvasBlocker](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/ "https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/") 🌐 Alters some JS APIs to prevent fingerprinting.
+- [I still don't care about cookies](https://addons.mozilla.org/it/firefox/addon/istilldontcareaboutcookies/ "https://addons.mozilla.org/it/firefox/addon/istilldontcareaboutcookies/") 🌐 Block pop-ups.
 ### Chat
 - [Telegram FOSS](https://f-droid.org/en/packages/org.telegram.messenger/ "https://f-droid.org/en/packages/org.telegram.messenger/") 🍎 🪟 🐧 🤖 📱 🌐 Telegram is a messaging app with a focus on speed and security.
 - [SimpleX Chat](https://f-droid.org/en/packages/chat.simplex.app/ "https://f-droid.org/en/packages/chat.simplex.app/") 🍎 🪟 🐧 🤖 📱 SimpleX Chat - e2e encrypted messenger without any user IDs private by design.
@@ -99,6 +106,7 @@ sourcing, building, and deploying data science and AI initiatives.
 ### Mail
 - [Thunderbird](https://www.thunderbird.net "https://www.thunderbird.net") 🍎 🪟 🐧 🤖 Secure, customizable, and free email client.
 ### News and Reading
+- [Wikipedia](https://f-droid.org/en/packages/org.wikipedia/ "https://f-droid.org/en/packages/org.wikipedia/") 🤖 Official feature-rich viewer of the free online encyclopedia.
 - [Netnewswire](https://netnewswire.com "https://netnewswire.com") 🍎 📱 RSS reader for Mac, iPhone, and iPad.
 - [Capy Reader](https://f-droid.org/en/packages/com.capyreader.app/ "https://f-droid.org/en/packages/com.capyreader.app/") 🤖 A smallish RSS reader.
 - [Calibre](https://calibre-ebook.com "https://calibre-ebook.com") 🍎 🪟 🐧 Powerful and easy to use e-book manager.
@@ -153,6 +161,7 @@ sourcing, building, and deploying data science and AI initiatives.
 - [Birday](https://f-droid.org/packages/com.minar.birday/ "https://f-droid.org/packages/com.minar.birday/") 🤖 A simple yet useful birthday manager.
 - [Rustdesk](https://rustdesk.com/ "https://rustdesk.com/") 🍎 🪟 🐧 🤖 🌐 Remote access and support software.
 - [BetterCounter](https://f-droid.org/en/packages/org.kde.bettercounter/ "https://f-droid.org/en/packages/org.kde.bettercounter/") 🤖 A simple, multi-purpose counter app.
+- [Weather](https://apt.izzysoft.de/fdroid/index/apk/me.tangobee.weathernaut "https://apt.izzysoft.de/fdroid/index/apk/me.tangobee.weathernaut") 🤖 WeatherMaster inspired by the Google Pixel weather app, but with more features.
 ### System and Security
 - [Stats](https://github.com/exelban/stats "https://github.com/exelban/stats") 🍎 macOS system monitor in your menu bar.
 - [KeePassXC](https://keepassxc.org "https://keepassxc.org") 🍎 🪟 🐧 Cross-platform Password Manager.
@@ -172,7 +181,12 @@ sourcing, building, and deploying data science and AI initiatives.
 - [Rustdesk](https://rustdesk.com "https://rustdesk.com") 🍎 🪟 🐧 🤖 📱 The fast open-source remote access and support software.
 - [Tunnelblick](https://tunnelblick.net "https://tunnelblick.net") 🍎 Free software for OpenVPN on macOS.
 - [AdAway](https://f-droid.org/en/packages/org.adaway/ "https://f-droid.org/en/packages/org.adaway/") 🤖 A free and Open Source ad blocker for Android.
+- [Pi-hole](https://pi-hole.net/ "https://pi-hole.net/") 🌐 Network-wide Ad Blocking
+   - [Firebog](https://firebog.net/ "https://firebog.net/") 🌐 The big blocklist collection.
+   - [StevenBlack](https://github.com/StevenBlack/hosts "https://github.com/StevenBlack/hosts") 🌐 Consolidating and extending hosts files from several well-curated sources. 
+   - [Phishing](https://phishing.army/ "https://phishing.army/") 🌐 Blocklist to filter phishing domain.
 - [InviZible Pro](https://f-droid.org/en/packages/pan.alexander.tordnscrypt.stable/ "https://f-droid.org/en/packages/pan.alexander.tordnscrypt.stable/") 🤖 Comprehensive application for on-line privacy and security.
+- [WiFiAnalyzer](https://f-droid.org/en/packages/com.vrem.wifianalyzer/ "https://f-droid.org/en/packages/com.vrem.wifianalyzer/") 🤖 Optimize your WiFi network.
 ### Backup and Downloader
 - [qbittorrent](https://www.qbittorrent.org "https://www.qbittorrent.org") 🍎 🪟 🐧 Cross-platform BitTorrent client written in native C++.
 - [Transmissionbt](https://transmissionbt.com "https://transmissionbt.com") 🍎 🪟 🐧 Fast, easy, and free BitTorrent client.
@@ -183,6 +197,9 @@ sourcing, building, and deploying data science and AI initiatives.
 ### Repository and Package Manager
 - [Homebrew](https://brew.sh "https://brew.sh") 🍎 The Missing Package Manager for macOS.
 - [Scoop](https://scoop.sh "https://scoop.sh") 🪟 A command-line installer for Windows.
+- [F-Droid](https://f-droid.org/ "https://f-droid.org/") 🤖 F-Droid is an installable catalogue of FOSS applications for the Android platform.
+- [IzzyOnDroid](https://apt.izzysoft.de/fdroid/ "https://apt.izzysoft.de/fdroid/") 🤖 This is the F-Droid Repository by IzzyOnDroid.
+- [Aurora Store-OSS](https://auroraoss.com/ "https://auroraoss.com/") 🤖 FOSS client for Play Store, get app updates, top charts & much more without having GSF on your device.
 ### Games
 - [Retroarch](https://www.retroarch.com "https://www.retroarch.com") 🍎 🪟 🐧 🤖 Frontend for emulators, game engines and media players.
 - [SuperTuxKart](https://supertuxkart.net "https://supertuxkart.net") 🍎 🪟 🐧 🤖 3D arcade racer with a variety characters, tracks, and modes to play.
@@ -193,6 +210,7 @@ sourcing, building, and deploying data science and AI initiatives.
 - [Pocket Broomball](https://f-droid.org/en/packages/com.simondalvai.pocketbroomball/ "https://f-droid.org/en/packages/com.simondalvai.pocketbroomball/") 🤖 Broomball video game.
 ### Other
 - [Tabby](https://tabby.sh "https://tabby.sh") 🍎 🪟 🐧 Customizable terminal app for local shells, serial, SSH and Telnet connections.
+- [Termux](https://f-droid.org/en/packages/com.termux/ "https://f-droid.org/en/packages/com.termux/") 🤖 Terminal emulator with packages.
 - [SweetHome3D](https://www.sweethome3d.com "https://www.sweethome3d.com") 🍎 🪟 🐧 Free interior design application.
 - [Linux Command Library](https://f-droid.org/en/packages/com.inspiredandroid.linuxcommandbibliotheca "https://f-droid.org/en/packages/com.inspiredandroid.linuxcommandbibliotheca") 🤖 Library of linux command.
 - [phyphox](https://f-droid.org/en/packages/de.rwth_aachen.phyphox/ "https://f-droid.org/en/packages/de.rwth_aachen.phyphox/") 🤖 Perform physics experiments with your phone.
