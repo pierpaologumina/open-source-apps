@@ -43,6 +43,7 @@
 - [Harmonoid](https://harmonoid.com/downloads "https://harmonoid.com/downloads") 🪟 🐧 🤖 Plays & manages your music library.
 - [Spotube](https://f-droid.org/en/packages/oss.krtirtho.spotube/ "https://f-droid.org/en/packages/oss.krtirtho.spotube/") 🍎 🪟 🐧 🤖 Lightweight & resource friendly spotify client without requiring Spotify Premium.
 - [RiMusic](https://f-droid.org/en/packages/it.fast4x.rimusic/ "https://f-droid.org/en/packages/it.fast4x.rimusic/") 🤖 A multilingual Android application for streaming music from YouTube Music.
+- [Audile](https://f-droid.org/en/packages/com.mrsep.musicrecognizer/ "https://f-droid.org/en/packages/com.mrsep.musicrecognizer/") 🤖 Music recognition app.
 #### Video and Streaming
 - [HandBrake](https://handbrake.fr "https://handbrake.fr") 🍎 🪟 🐧 Software for video transcoder.
 - [OBS Studio](https://obsproject.com "https://obsproject.com") 🍎 🪟 🐧 Software for video recording and live streaming.
@@ -139,7 +140,7 @@ sourcing, building, and deploying data science and AI initiatives.
 - [Itsycal](https://www.mowglii.com/itsycal "https://www.mowglii.com/itsycal") 🍎 🆓 Tiny menu bar calendar.
 - [MinCal Widget](https://f-droid.org/en/packages/cat.mvmike.minimalcalendarwidget/ "https://f-droid.org/en/packages/cat.mvmike.minimalcalendarwidget/") 🤖 Minimal Calendar Widget.
 - [FlipClock Android](https://github.com/AlynxZhou/flipclock-android "https://github.com/AlynxZhou/flipclock-android") 🤖 The Android wrapper of FlipClock.
-- [Maccy](https://maccy.app "https://maccy.app") 🍎 Clipboard manager for macOS.
+- [PasteBar](https://www.pastebar.app/ "https://www.pastebar.app/") 🍎 🪟 Clipboard Manager.
 - [CopyQ](https://hluk.github.io/CopyQ "https://hluk.github.io/CopyQ") 🍎 🪟 🐧 Clipboard Manager with Advanced Features.
 - [Flameshot](https://flameshot.org "https://flameshot.org") 🍎 🪟 🐧 Powerful screenshot software.
 - [Shottr](https://shottr.cc "https://shottr.cc") 🍎 🆓 Screenshot tool.
@@ -162,6 +163,8 @@ sourcing, building, and deploying data science and AI initiatives.
 - [Rustdesk](https://rustdesk.com/ "https://rustdesk.com/") 🍎 🪟 🐧 🤖 🌐 Remote access and support software.
 - [BetterCounter](https://f-droid.org/en/packages/org.kde.bettercounter/ "https://f-droid.org/en/packages/org.kde.bettercounter/") 🤖 A simple, multi-purpose counter app.
 - [Weather](https://apt.izzysoft.de/fdroid/index/apk/me.tangobee.weathernaut "https://apt.izzysoft.de/fdroid/index/apk/me.tangobee.weathernaut") 🤖 WeatherMaster inspired by the Google Pixel weather app, but with more features.
+- [OSS Document Scanner](https://apt.izzysoft.de/fdroid/index/apk/com.akylas.documentscanner "https://apt.izzysoft.de/fdroid/index/apk/com.akylas.documentscanner") 🤖 Scan documents by using camera phone.
+- [Timed Silence](https://f-droid.org/en/packages/de.felixnuesse.timedsilence/ "https://f-droid.org/en/packages/de.felixnuesse.timedsilence/") 🤖 An app that manages your phones volume.
 ### System and Security
 - [Stats](https://github.com/exelban/stats "https://github.com/exelban/stats") 🍎 macOS system monitor in your menu bar.
 - [KeePassXC](https://keepassxc.org "https://keepassxc.org") 🍎 🪟 🐧 Cross-platform Password Manager.
@@ -187,6 +190,7 @@ sourcing, building, and deploying data science and AI initiatives.
    - [Phishing](https://phishing.army/ "https://phishing.army/") 🌐 Blocklist to filter phishing domain.
 - [InviZible Pro](https://f-droid.org/en/packages/pan.alexander.tordnscrypt.stable/ "https://f-droid.org/en/packages/pan.alexander.tordnscrypt.stable/") 🤖 Comprehensive application for on-line privacy and security.
 - [WiFiAnalyzer](https://f-droid.org/en/packages/com.vrem.wifianalyzer/ "https://f-droid.org/en/packages/com.vrem.wifianalyzer/") 🤖 Optimize your WiFi network.
+- [CPU Info](https://f-droid.org/en/packages/com.kgurgul.cpuinfo/ "https://f-droid.org/en/packages/com.kgurgul.cpuinfo/") 🤖 Information about device hardware and software.
 ### Backup and Downloader
 - [qbittorrent](https://www.qbittorrent.org "https://www.qbittorrent.org") 🍎 🪟 🐧 Cross-platform BitTorrent client written in native C++.
 - [Transmissionbt](https://transmissionbt.com "https://transmissionbt.com") 🍎 🪟 🐧 Fast, easy, and free BitTorrent client.
