@@ -44,6 +44,9 @@
 - [Spotube](https://f-droid.org/en/packages/oss.krtirtho.spotube/ "https://f-droid.org/en/packages/oss.krtirtho.spotube/") 🍎 🪟 🐧 🤖 Lightweight & resource friendly spotify client without requiring Spotify Premium.
 - [RiMusic](https://f-droid.org/en/packages/it.fast4x.rimusic/ "https://f-droid.org/en/packages/it.fast4x.rimusic/") 🤖 A multilingual Android application for streaming music from YouTube Music.
 - [Audile](https://f-droid.org/en/packages/com.mrsep.musicrecognizer/ "https://f-droid.org/en/packages/com.mrsep.musicrecognizer/") 🤖 Music recognition app.
+- [BlackHole](https://github.com/ExistentialAudio/BlackHole "https://github.com/ExistentialAudio/BlackHole") 🍎 Audio loopback driver for Mac.
+- [Ultimate Vocal Remover](https://ultimatevocalremover.com/ "https://ultimatevocalremover.com/") 🍎 🪟 🐧 Vocal remover application.
+- [Vibe](https://thewh1teagle.github.io/vibe/ "https://thewh1teagle.github.io/vibe/") 🍎 🪟 🐧 Transcribe audio/video offline using OpenAI Whisper.
 #### Video and Streaming
 - [HandBrake](https://handbrake.fr "https://handbrake.fr") 🍎 🪟 🐧 Software for video transcoder.
 - [OBS Studio](https://obsproject.com "https://obsproject.com") 🍎 🪟 🐧 Software for video recording and live streaming.
@@ -69,6 +72,7 @@
 - [Firefox](https://www.mozilla.org "https://www.mozilla.org") 🍎 🪟 🐧 🤖 📱 Web browser that blocks ad trackers, respects your privacy and works on any device.
 - [Brave](https://brave.com "https://brave.com") 🍎 🪟 🐧 🤖 📱 🆓 Fast, secure, and privacy-focused browser that blocks ads and trackers.
 - [Tor Browser](https://www.torproject.org "https://www.torproject.org") 🍎 🪟 🐧 🤖 Tor is a free overlay network for enabling anonymous communication.
+- [Orion](https://kagi.com/orion/ "https://kagi.com/orion/") 🍎 📱 🆓 Lightweight, WebKit based, and native for Mac, iPhone and iPad.
 #### Browser Extension
 - [Ublock origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/ "https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/") 🌐 An efficient wide-spectrum content blocker.
 - [Privacy Badger](https://addons.mozilla.org/it/firefox/addon/privacy-badger17/ "https://addons.mozilla.org/it/firefox/addon/privacy-badger17/") 🌐 Automatically learns to block invisible trackers.
@@ -83,6 +87,7 @@
 - [DevToys](https://devtoys.app "https://devtoys.app") 🍎 🪟 🐧 Swiss Army knife for developers.
 - [Android Studio](https://developer.android.com/studio "https://developer.android.com/studio") 🍎 🪟 🐧 Official IDE for Android app development.
 - [VSCodium](https://vscodium.com "https://vscodium.com") 🍎 🪟 🐧 Community-driven, freely-licensed binary distribution of Microsoft’s editor VS Code.
+- [Aide](https://aide.dev/ "https://aide.dev/") 🍎 🪟 🐧 The open-source AI-native IDE.
 - [Anaconda](https://www.anaconda.com "https://www.anaconda.com") 🍎 🪟 🐧 Ecosystem for
 sourcing, building, and deploying data science and AI initiatives.
 - [WebStorm](https://www.jetbrains.com/webstorm "https://www.jetbrains.com/webstorm") 🍎 🪟 🐧 🆓 JavaScript and TypeScript IDE.
@@ -135,6 +140,7 @@ sourcing, building, and deploying data science and AI initiatives.
 - [Openboard](https://openboard.ch/index.en.html "https://openboard.ch/index.en.html") 🍎 🪟 🐧 Interactive whiteboard for schools and universities.
 - [Xournalpp](https://xournalpp.github.io "https://xournalpp.github.io") 🍎 🪟 🐧 🤖 Note-taking software that is fast, flexible, and functional.
 - [CollaNote](https://apps.apple.com/us/app/collanote-notes-pdf-markup/id1540956268 "https://apps.apple.com/us/app/collanote-notes-pdf-markup/id1540956268") 📱 🆓 Free Note-Taking App.
+- [Excalidraw](https://excalidraw.com/ "https://excalidraw.com/") 🌐 Virtual collaborative whiteboard tool.
 - [Exifcleaner](https://exifcleaner.com "https://exifcleaner.com") 🍎 🪟 🐧 Clean metadata from images, videos, PDFs, and other files.
 - [PDF Converter ](https://f-droid.org/en/packages/swati4star.createpdf/ "https://f-droid.org/en/packages/swati4star.createpdf/") 🤖 Create PDF files 
 - [Itsycal](https://www.mowglii.com/itsycal "https://www.mowglii.com/itsycal") 🍎 🆓 Tiny menu bar calendar.
@@ -165,6 +171,9 @@ sourcing, building, and deploying data science and AI initiatives.
 - [Weather](https://apt.izzysoft.de/fdroid/index/apk/me.tangobee.weathernaut "https://apt.izzysoft.de/fdroid/index/apk/me.tangobee.weathernaut") 🤖 WeatherMaster inspired by the Google Pixel weather app, but with more features.
 - [OSS Document Scanner](https://apt.izzysoft.de/fdroid/index/apk/com.akylas.documentscanner "https://apt.izzysoft.de/fdroid/index/apk/com.akylas.documentscanner") 🤖 Scan documents by using camera phone.
 - [Timed Silence](https://f-droid.org/en/packages/de.felixnuesse.timedsilence/ "https://f-droid.org/en/packages/de.felixnuesse.timedsilence/") 🤖 An app that manages your phones volume.
+- [Solaar](https://pwr-solaar.github.io/Solaar/ "https://pwr-solaar.github.io/Solaar/") 🐧 Linux manager for many Logitech keyboards, mice, and trackpads.
+- [Pomofocus](https://pomofocus.io "https://pomofocus.io") 🌐 An online Pomodoro timer to boost your productivity.
+- [Monkeytype](https://monkeytype.com/ "https://monkeytype.com/") 🌐 A minimalistic, customizable typing test.
 ### System and Security
 - [Stats](https://github.com/exelban/stats "https://github.com/exelban/stats") 🍎 macOS system monitor in your menu bar.
 - [KeePassXC](https://keepassxc.org "https://keepassxc.org") 🍎 🪟 🐧 Cross-platform Password Manager.
@@ -184,7 +193,8 @@ sourcing, building, and deploying data science and AI initiatives.
 - [Rustdesk](https://rustdesk.com "https://rustdesk.com") 🍎 🪟 🐧 🤖 📱 The fast open-source remote access and support software.
 - [Tunnelblick](https://tunnelblick.net "https://tunnelblick.net") 🍎 Free software for OpenVPN on macOS.
 - [AdAway](https://f-droid.org/en/packages/org.adaway/ "https://f-droid.org/en/packages/org.adaway/") 🤖 A free and Open Source ad blocker for Android.
-- [Pi-hole](https://pi-hole.net/ "https://pi-hole.net/") 🌐 Network-wide Ad Blocking
+- [Pi-hole](https://pi-hole.net/ "https://pi-hole.net/") 🐧 Network-wide Ad Blocking
+- [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome "https://github.com/AdguardTeam/AdGuardHome") 🐧 Network-wide ads & trackers blocking DNS server.
    - [Firebog](https://firebog.net/ "https://firebog.net/") 🌐 The big blocklist collection.
    - [StevenBlack](https://github.com/StevenBlack/hosts "https://github.com/StevenBlack/hosts") 🌐 Consolidating and extending hosts files from several well-curated sources. 
    - [Phishing](https://phishing.army/ "https://phishing.army/") 🌐 Blocklist to filter phishing domain.
