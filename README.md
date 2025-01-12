@@ -174,6 +174,7 @@ sourcing, building, and deploying data science and AI initiatives.
 - [Solaar](https://pwr-solaar.github.io/Solaar/ "https://pwr-solaar.github.io/Solaar/") 🐧 Linux manager for many Logitech keyboards, mice, and trackpads.
 - [Pomofocus](https://pomofocus.io "https://pomofocus.io") 🌐 An online Pomodoro timer to boost your productivity.
 - [Monkeytype](https://monkeytype.com/ "https://monkeytype.com/") 🌐 A minimalistic, customizable typing test.
+- [Flip 2 DND](https://f-droid.org/packages/dev.robin.flip_2_dnd/) 🤖 Toggle Do Not Disturb mode by flipping your phone face down.
 ### System and Security
 - [Stats](https://github.com/exelban/stats "https://github.com/exelban/stats") 🍎 macOS system monitor in your menu bar.
 - [KeePassXC](https://keepassxc.org "https://keepassxc.org") 🍎 🪟 🐧 Cross-platform Password Manager.
@@ -201,6 +202,8 @@ sourcing, building, and deploying data science and AI initiatives.
 - [InviZible Pro](https://f-droid.org/en/packages/pan.alexander.tordnscrypt.stable/ "https://f-droid.org/en/packages/pan.alexander.tordnscrypt.stable/") 🤖 Comprehensive application for on-line privacy and security.
 - [WiFiAnalyzer](https://f-droid.org/en/packages/com.vrem.wifianalyzer/ "https://f-droid.org/en/packages/com.vrem.wifianalyzer/") 🤖 Optimize your WiFi network.
 - [CPU Info](https://f-droid.org/en/packages/com.kgurgul.cpuinfo/ "https://f-droid.org/en/packages/com.kgurgul.cpuinfo/") 🤖 Information about device hardware and software.
+- [Putty](https://www.putty.org) 🪟 SSH and telnet client.
+- [Mobaxterm](https://mobaxterm.mobatek.net/) 🪟 Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more.
 ### Backup and Downloader
 - [qbittorrent](https://www.qbittorrent.org "https://www.qbittorrent.org") 🍎 🪟 🐧 Cross-platform BitTorrent client written in native C++.
 - [Transmissionbt](https://transmissionbt.com "https://transmissionbt.com") 🍎 🪟 🐧 Fast, easy, and free BitTorrent client.
@@ -208,6 +211,7 @@ sourcing, building, and deploying data science and AI initiatives.
 - [MacYTDL](https://github.com/section83/MacYTDL "https://github.com/section83/MacYTDL") 🍎 GUI front-end for the YT-DLP video downloader.
 - [ytDownloader](https://ytdn.netlify.app "https://ytdn.netlify.app") 🍎 🪟 🐧 Download videos and audios from hundreds of sites.
 - [Soulseek](https://www.slsknet.org/news "https://www.slsknet.org/news") 🍎 🪟 🐧 Free, spyware free, just plain free file sharing network.
+- [Abdownloadmanager](https://abdownloadmanager.com/) 🪟 🐧 Download manager.
 ### Repository and Package Manager
 - [Homebrew](https://brew.sh "https://brew.sh") 🍎 The Missing Package Manager for macOS.
 - [Scoop](https://scoop.sh "https://scoop.sh") 🪟 A command-line installer for Windows.
@@ -221,6 +225,7 @@ sourcing, building, and deploying data science and AI initiatives.
 - [Battleship](https://battleship-game.org "https://battleship-game.org") 🌐 Battleship game.
 - [Pinball-on-Android](https://github.com/fexed/Pinball-on-Android "https://github.com/fexed/Pinball-on-Android") 🤖 Android port of 3D Pinball Space Cadet.
 - [NetherSX2](https://nethersx2.com/ "https://nethersx2.com/") 🤖 🆓 PS2 emulator for android.
+- [Rpcs3](https://rpcs3.net/) 🍎 🪟 🐧 PlayStation 3 Emulator.
 - [Pocket Broomball](https://f-droid.org/en/packages/com.simondalvai.pocketbroomball/ "https://f-droid.org/en/packages/com.simondalvai.pocketbroomball/") 🤖 Broomball video game.
 ### Other
 - [Tabby](https://tabby.sh "https://tabby.sh") 🍎 🪟 🐧 Customizable terminal app for local shells, serial, SSH and Telnet connections.
