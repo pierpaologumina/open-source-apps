@@ -203,7 +203,7 @@ sourcing, building, and deploying data science and AI initiatives.
 - [WiFiAnalyzer](https://f-droid.org/en/packages/com.vrem.wifianalyzer/ "https://f-droid.org/en/packages/com.vrem.wifianalyzer/") 🤖 Optimize your WiFi network.
 - [CPU Info](https://f-droid.org/en/packages/com.kgurgul.cpuinfo/ "https://f-droid.org/en/packages/com.kgurgul.cpuinfo/") 🤖 Information about device hardware and software.
 - [Putty](https://www.putty.org) 🪟 SSH and telnet client.
-- [Mobaxterm](https://mobaxterm.mobatek.net/) 🪟 Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more.
+- [Mobaxterm](https://mobaxterm.mobatek.net/) 🪟 🆓 Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more.
 ### Backup and Downloader
 - [qbittorrent](https://www.qbittorrent.org "https://www.qbittorrent.org") 🍎 🪟 🐧 Cross-platform BitTorrent client written in native C++.
 - [Transmissionbt](https://transmissionbt.com "https://transmissionbt.com") 🍎 🪟 🐧 Fast, easy, and free BitTorrent client.
