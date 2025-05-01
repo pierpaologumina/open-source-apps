@@ -186,6 +186,7 @@ sourcing, building, and deploying data science and AI initiatives.
 - [OSS Document Scanner](https://apt.izzysoft.de/fdroid/index/apk/com.akylas.documentscanner "https://apt.izzysoft.de/fdroid/index/apk/com.akylas.documentscanner") 🤖 Scan documents by using camera phone.
 - [Timed Silence](https://f-droid.org/en/packages/de.felixnuesse.timedsilence/ "https://f-droid.org/en/packages/de.felixnuesse.timedsilence/") 🤖 An app that manages your phones volume.
 - [Solaar](https://pwr-solaar.github.io/Solaar/ "https://pwr-solaar.github.io/Solaar/") 🐧 Linux manager for many Logitech keyboards, mice, and trackpads.
+- [LogiOps](https://github.com/PixlOne/logiops "https://github.com/PixlOne/logiops") 🐧 Unofficial driver for Logitech mice and keyboard.
 - [Pomofocus](https://pomofocus.io "https://pomofocus.io") 🌐 An online Pomodoro timer to boost your productivity.
 - [Monkeytype](https://monkeytype.com/ "https://monkeytype.com/") 🌐 A minimalistic, customizable typing test.
 - [Flip 2 DND](https://f-droid.org/packages/dev.robin.flip_2_dnd/) 🤖 Toggle Do Not Disturb mode by flipping your phone face down.
