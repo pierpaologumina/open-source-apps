@@ -62,6 +62,8 @@
 - [MPV](https://f-droid.org/en/packages/is.xyz.mpv/ "https://f-droid.org/en/packages/is.xyz.mpv/") 🤖 Video player for Android based on libmpv.
 - [Seal](https://f-droid.org/en/packages/com.junkfood.seal/ "https://f-droid.org/en/packages/com.junkfood.seal/") 🤖 Video/Audio downloader designed and themed with Material You.
 - [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/ "https://f-droid.org/en/packages/org.schabi.newpipe/") 🤖 Lightweight YouTube frontend.
+- [Tubular](https://f-droid.org/en/packages/org.polymorphicshade.tubular/ "https://f-droid.org/en/packages/org.polymorphicshade.tubular/") 🤖 
+A fork of NewPipe, a free lightweight YouTube frontend for Android (with SponsorBlock).
 
 #### Images and Graphics
 - [Imageoptim](https://imageoptim.com/mac "https://imageoptim.com/mac") 🍎 🆓 Removes bloated metadata. Saves disk space & bandwidth by compressing images without losing quality.
