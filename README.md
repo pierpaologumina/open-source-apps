@@ -249,6 +249,7 @@ Privacy focused translator app built with MD3.
 - [Pinball-on-Android](https://github.com/fexed/Pinball-on-Android "https://github.com/fexed/Pinball-on-Android") 🤖 Android port of 3D Pinball Space Cadet.
 - [NetherSX2](https://nethersx2.com/ "https://nethersx2.com/") 🤖 🆓 PS2 emulator for android.
 - [Rpcs3](https://rpcs3.net/) 🍎 🪟 🐧 PlayStation 3 Emulator.
+- [Ryujinx](https://ryujinx.app/ "https://ryujinx.app/") 🍎 🪟 🐧 Nintendo Switch Emulator.
 - [Pocket Broomball](https://f-droid.org/en/packages/com.simondalvai.pocketbroomball/ "https://f-droid.org/en/packages/com.simondalvai.pocketbroomball/") 🤖 Broomball video game.
 
 ### Other
