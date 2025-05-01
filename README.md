@@ -85,6 +85,7 @@
 - [Enhancer for YouTube](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/ "https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/") 🌐 🆓 Take control of YouTube and boost your user experience.
 - [CanvasBlocker](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/ "https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/") 🌐 Alters some JS APIs to prevent fingerprinting.
 - [I still don't care about cookies](https://addons.mozilla.org/it/firefox/addon/istilldontcareaboutcookies/ "https://addons.mozilla.org/it/firefox/addon/istilldontcareaboutcookies/") 🌐 Block pop-ups.
+- [SponsorBlock for YouTube](https://addons.mozilla.org/firefox/addon/sponsorblock/ "https://addons.mozilla.org/it/firefox/addon/sponsorblock/") 🌐 
 
 ### Chat
 - [Telegram FOSS](https://f-droid.org/en/packages/org.telegram.messenger/ "https://f-droid.org/en/packages/org.telegram.messenger/") 🍎 🪟 🐧 🤖 📱 🌐 Telegram is a messaging app with a focus on speed and security.
