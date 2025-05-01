@@ -191,6 +191,8 @@ sourcing, building, and deploying data science and AI initiatives.
 - [Monkeytype](https://monkeytype.com/ "https://monkeytype.com/") 🌐 A minimalistic, customizable typing test.
 - [Flip 2 DND](https://f-droid.org/packages/dev.robin.flip_2_dnd/) 🤖 Toggle Do Not Disturb mode by flipping your phone face down.
 - [Parcel](https://apt.izzysoft.de/fdroid/index/apk/dev.itsvic.parceltracker "https://apt.izzysoft.de/fdroid/index/apk/dev.itsvic.parceltracker") 🤖 Track all your parcels with ease.
+- [Translate You](https://f-droid.org/packages/com.bnyro.translate/ "https://f-droid.org/packages/com.bnyro.translate/") 🤖 
+Privacy focused translator app built with MD3.
 
 ### System and Security
 - [Stats](https://github.com/exelban/stats "https://github.com/exelban/stats") 🍎 macOS system monitor in your menu bar.
