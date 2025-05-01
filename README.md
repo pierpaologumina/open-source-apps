@@ -211,6 +211,8 @@ Privacy focused translator app built with MD3.
 - [KeepingYouAwake](https://keepingyouawake.app "https://keepingyouawake.app") 🍎 Prevents your Mac from going to sleep.
 - [SquirrelDisk](https://www.squirreldisk.com "https://www.squirreldisk.com") 🍎 🪟 🐧 The easiest app you will ever use to detect huge files.
 - [UTM](https://mac.getutm.app "https://mac.getutm.app") 🍎 Securely run operating systems on your Mac.
+- [VirtualBox](https://www.virtualbox.org/ "https://www.virtualbox.org/") 🍎 🪟 🐧 General-purpose full virtualization software.
+- [Qemu](https://qemu.org/ "https://qemu.org/") 🍎 🪟 🐧 A generic and open source machine emulator and virtualizer.
 - [Rustdesk](https://rustdesk.com "https://rustdesk.com") 🍎 🪟 🐧 🤖 📱 The fast open-source remote access and support software.
 - [Tunnelblick](https://tunnelblick.net "https://tunnelblick.net") 🍎 Free software for OpenVPN on macOS.
 - [AdAway](https://f-droid.org/en/packages/org.adaway/ "https://f-droid.org/en/packages/org.adaway/") 🤖 A free and Open Source ad blocker for Android.
