@@ -47,6 +47,8 @@
 - [BlackHole](https://github.com/ExistentialAudio/BlackHole "https://github.com/ExistentialAudio/BlackHole") 🍎 Audio loopback driver for Mac.
 - [Ultimate Vocal Remover](https://ultimatevocalremover.com/ "https://ultimatevocalremover.com/") 🍎 🪟 🐧 Vocal remover application.
 - [Vibe](https://thewh1teagle.github.io/vibe/ "https://thewh1teagle.github.io/vibe/") 🍎 🪟 🐧 Transcribe audio/video offline using OpenAI Whisper.
+- [M3U](https://f-droid.org/packages/com.m3u.androidApp/ "https://f-droid.org/packages/com.m3u.androidApp/") 🤖 Stream media player for android.
+
 #### Video and Streaming
 - [HandBrake](https://handbrake.fr "https://handbrake.fr") 🍎 🪟 🐧 Software for video transcoder.
 - [OBS Studio](https://obsproject.com "https://obsproject.com") 🍎 🪟 🐧 Software for video recording and live streaming.
