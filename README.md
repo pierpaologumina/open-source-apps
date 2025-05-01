@@ -194,6 +194,7 @@ sourcing, building, and deploying data science and AI initiatives.
 - [Parcel](https://apt.izzysoft.de/fdroid/index/apk/dev.itsvic.parceltracker "https://apt.izzysoft.de/fdroid/index/apk/dev.itsvic.parceltracker") 🤖 Track all your parcels with ease.
 - [Translate You](https://f-droid.org/packages/com.bnyro.translate/ "https://f-droid.org/packages/com.bnyro.translate/") 🤖 
 Privacy focused translator app built with MD3.
+- [Linkora](https://f-droid.org/en/packages/com.sakethh.linkora/ "https://f-droid.org/en/packages/com.sakethh.linkora/") 🤖 Link utility app.
 
 ### System and Security
 - [Stats](https://github.com/exelban/stats "https://github.com/exelban/stats") 🍎 macOS system monitor in your menu bar.
