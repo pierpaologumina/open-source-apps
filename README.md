@@ -61,6 +61,7 @@
 - [NOVA Video Player](https://f-droid.org/en/packages/org.courville.nova/ "https://f-droid.org/en/packages/org.courville.nova/") 🤖 NOVA Video Player Video player for local/network content with subtitle/metadata download support.
 - [Seal](https://f-droid.org/en/packages/com.junkfood.seal/ "https://f-droid.org/en/packages/com.junkfood.seal/") 🤖 Video/Audio downloader designed and themed with Material You.
 - [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/ "https://f-droid.org/en/packages/org.schabi.newpipe/") 🤖 Lightweight YouTube frontend.
+
 #### Images and Graphics
 - [Imageoptim](https://imageoptim.com/mac "https://imageoptim.com/mac") 🍎 🆓 Removes bloated metadata. Saves disk space & bandwidth by compressing images without losing quality.
 - [Gimp](https://www.gimp.org "https://www.gimp.org") 🍎 🪟 🐧 Cross-platform image editor.
@@ -70,11 +71,13 @@
 - [Image Toolbox](https://f-droid.org/en/packages/ru.tech.imageresizershrinker/ "https://f-droid.org/en/packages/ru.tech.imageresizershrinker/") 🤖 Filter, Resize, Compare, Crop - do anything with your images.
 - [Scrambled Exif](https://f-droid.org/en/packages/com.jarsilio.android.scrambledeggsif/ "https://f-droid.org/en/packages/com.jarsilio.android.scrambledeggsif/") 🤖 Remove the metadata from your pictures before sharing them.
 - [FFShare](https://f-droid.org/it/packages/com.caydey.ffshare/ "https://f-droid.org/it/packages/com.caydey.ffshare/") 🤖 Compress image, video and audio files through ffmpeg before sharing them.
+
 ### Browser
 - [Firefox](https://www.mozilla.org "https://www.mozilla.org") 🍎 🪟 🐧 🤖 📱 Web browser that blocks ad trackers, respects your privacy and works on any device.
 - [Brave](https://brave.com "https://brave.com") 🍎 🪟 🐧 🤖 📱 🆓 Fast, secure, and privacy-focused browser that blocks ads and trackers.
 - [Tor Browser](https://www.torproject.org "https://www.torproject.org") 🍎 🪟 🐧 🤖 Tor is a free overlay network for enabling anonymous communication.
 - [Orion](https://kagi.com/orion/ "https://kagi.com/orion/") 🍎 📱 🆓 Lightweight, WebKit based, and native for Mac, iPhone and iPad.
+
 #### Browser Extension
 - [Ublock origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/ "https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/") 🌐 An efficient wide-spectrum content blocker.
 - [Privacy Badger](https://addons.mozilla.org/it/firefox/addon/privacy-badger17/ "https://addons.mozilla.org/it/firefox/addon/privacy-badger17/") 🌐 Automatically learns to block invisible trackers.
@@ -82,9 +85,11 @@
 - [Enhancer for YouTube](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/ "https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/") 🌐 🆓 Take control of YouTube and boost your user experience.
 - [CanvasBlocker](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/ "https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/") 🌐 Alters some JS APIs to prevent fingerprinting.
 - [I still don't care about cookies](https://addons.mozilla.org/it/firefox/addon/istilldontcareaboutcookies/ "https://addons.mozilla.org/it/firefox/addon/istilldontcareaboutcookies/") 🌐 Block pop-ups.
+
 ### Chat
 - [Telegram FOSS](https://f-droid.org/en/packages/org.telegram.messenger/ "https://f-droid.org/en/packages/org.telegram.messenger/") 🍎 🪟 🐧 🤖 📱 🌐 Telegram is a messaging app with a focus on speed and security.
 - [SimpleX Chat](https://f-droid.org/en/packages/chat.simplex.app/ "https://f-droid.org/en/packages/chat.simplex.app/") 🍎 🪟 🐧 🤖 📱 SimpleX Chat - e2e encrypted messenger without any user IDs private by design.
+
 ### Development and IDE
 - [DevToys](https://devtoys.app "https://devtoys.app") 🍎 🪟 🐧 Swiss Army knife for developers.
 - [Android Studio](https://developer.android.com/studio "https://developer.android.com/studio") 🍎 🪟 🐧 Official IDE for Android app development.
@@ -99,6 +104,7 @@ sourcing, building, and deploying data science and AI initiatives.
 - [Dbgate](https://dbgate.org "https://dbgate.org") 🍎 🪟 🐧 The Smartest SQL+noSQL Database Client.
 - [HeidiSQL](https://www.heidisql.com "https://www.heidisql.com") 🪟 Connect to a variety of databases, like MariaDB, MySQL, Microsoft SQL, PostgreSQL, SQLite, Interbase and Firebird.
 - [Masscode](https://masscode.io "https://masscode.io") 🍎 🪟 🐧 Code snippets manager for developers.
+
 ### Editors and Notes
 - [Geany](https://www.geany.org "https://www.geany.org") 🍎 🪟 🐧 Powerful, stable and lightweight programmer's text editor.
 - [Standardnotes](https://standardnotes.com "https://standardnotes.com") 🍎 🪟 🐧 🤖 📱 Free, secure note-taking app with powerful end-to-end encryption.
@@ -106,13 +112,17 @@ sourcing, building, and deploying data science and AI initiatives.
 - [CotEditor](https://coteditor.com "https://coteditor.com") 🍎 The Plain-Text Editor for macOS.
 - [Notepad++](https://notepad-plus-plus.org "https://notepad-plus-plus.org") 🪟 Editor and notepad replacement that supports several languages.
 - [Acode editor](https://f-droid.org/en/packages/com.foxdebug.acode/ "https://f-droid.org/en/packages/com.foxdebug.acode/") 🤖 A lightweight but powerful text/code editor.
+
 ### Office
 - [OnlyOffice](https://www.onlyoffice.com "https://www.onlyoffice.com") 🍎 🪟 🐧 Free software office suite and ecosystem of collaborative applications.
 - [LibreOffice](https://www.libreoffice.org "https://www.libreoffice.org") 🍎 🪟 🐧 Private, free and open source office suite. It's compatible with Microsoft Office/365 files.
 - [Drawio](https://www.drawio.com "https://www.drawio.com") 🍎 🪟 🐧 Security-first diagramming for teams.
 - [MacTeX](https://www.tug.org/mactex "https://www.tug.org/mactex") 🍎 Package which installs TeX Live on the Mac.
+- [Overleaf](https://www.overleaf.com/ "https://www.overleaf.com/") 🌐 Collaborative online LaTeX editor.
+
 ### Mail
 - [Thunderbird](https://www.thunderbird.net "https://www.thunderbird.net") 🍎 🪟 🐧 🤖 Secure, customizable, and free email client.
+
 ### News and Reading
 - [Wikipedia](https://f-droid.org/en/packages/org.wikipedia/ "https://f-droid.org/en/packages/org.wikipedia/") 🤖 Official feature-rich viewer of the free online encyclopedia.
 - [Netnewswire](https://netnewswire.com "https://netnewswire.com") 🍎 📱 RSS reader for Mac, iPhone, and iPad.
@@ -120,6 +130,7 @@ sourcing, building, and deploying data science and AI initiatives.
 - [Calibre](https://calibre-ebook.com "https://calibre-ebook.com") 🍎 🪟 🐧 Powerful and easy to use e-book manager.
 - [Librera Reader](https://f-droid.org/en/packages/com.foobnix.pro.pdf.reader/ "https://f-droid.org/en/packages/com.foobnix.pro.pdf.reader/") 🤖 Book and PDF reader.
 - [KOReader](https://f-droid.org/en/packages/org.koreader.launcher.fdroid/ "https://f-droid.org/en/packages/org.koreader.launcher.fdroid/") 🤖 Ebook reader optimized for e-ink screens.
+
 ### Finder and Sharing Files
 - [Spacedrive](https://www.spacedrive.com "https://www.spacedrive.com") 🍎 🪟 🐧 One Explorer. All Your Files.
 - [MultiCommander](https://multicommander.com "https://multicommander.com") 🪟 Multi-tabbed file manager and is an alternative to the standard Windows Explorer.
@@ -128,7 +139,8 @@ sourcing, building, and deploying data science and AI initiatives.
 - [WinSCP](https://winscp.net "https://winscp.net") 🪟 🆓 SFTP and FTP client.
 - [OpenMTP](https://openmtp.ganeshrvel.com "https://openmtp.ganeshrvel.com") 🍎 Advanced Android file transfer app for macOS.
 - [Syncthing](https://f-droid.org/packages/com.nutomic.syncthingandroid/ "https://f-droid.org/packages/com.nutomic.syncthingandroid/") 🤖 Open, trustworthy and decentralized file synchronization.
-- [LocalSend](https://f-droid.org/en/packages/org.localsend.localsend_app/ "https://f-droid.org/en/packages/org.localsend.localsend_app/") 🍎 🪟 🐧 🤖 📱 🌐 Cross-Platform file sharing solution via WiFi. 
+- [LocalSend](https://f-droid.org/en/packages/org.localsend.localsend_app/ "https://f-droid.org/en/packages/org.localsend.localsend_app/") 🍎 🪟 🐧 🤖 📱 🌐 Cross-Platform file sharing solution via WiFi.
+
 ### Productivity and Utilities
 - [Rectangle](https://rectangleapp.com "https://rectangleapp.com") 🍎 Move and resize windows in macOS using keyboard shortcuts or snap areas.
 - [Balena Etcher](https://etcher.balena.io "https://etcher.balena.io") 🍎 🪟 🐧 Flash OS images to SD cards & USB drives, safely and easily.
@@ -208,6 +220,7 @@ sourcing, building, and deploying data science and AI initiatives.
 - [CPU Info](https://f-droid.org/en/packages/com.kgurgul.cpuinfo/ "https://f-droid.org/en/packages/com.kgurgul.cpuinfo/") 🤖 Information about device hardware and software.
 - [Putty](https://www.putty.org) 🪟 SSH and telnet client.
 - [Mobaxterm](https://mobaxterm.mobatek.net/) 🪟 🆓 Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more.
+
 ### Backup and Downloader
 - [qbittorrent](https://www.qbittorrent.org "https://www.qbittorrent.org") 🍎 🪟 🐧 Cross-platform BitTorrent client written in native C++.
 - [Transmissionbt](https://transmissionbt.com "https://transmissionbt.com") 🍎 🪟 🐧 Fast, easy, and free BitTorrent client.
@@ -216,12 +229,14 @@ sourcing, building, and deploying data science and AI initiatives.
 - [ytDownloader](https://ytdn.netlify.app "https://ytdn.netlify.app") 🍎 🪟 🐧 Download videos and audios from hundreds of sites.
 - [Soulseek](https://www.slsknet.org/news "https://www.slsknet.org/news") 🍎 🪟 🐧 Free, spyware free, just plain free file sharing network.
 - [Abdownloadmanager](https://abdownloadmanager.com/) 🪟 🐧 Download manager.
+
 ### Repository and Package Manager
 - [Homebrew](https://brew.sh "https://brew.sh") 🍎 The Missing Package Manager for macOS.
 - [Scoop](https://scoop.sh "https://scoop.sh") 🪟 A command-line installer for Windows.
 - [F-Droid](https://f-droid.org/ "https://f-droid.org/") 🤖 F-Droid is an installable catalogue of FOSS applications for the Android platform.
 - [IzzyOnDroid](https://apt.izzysoft.de/fdroid/ "https://apt.izzysoft.de/fdroid/") 🤖 This is the F-Droid Repository by IzzyOnDroid.
 - [Aurora Store-OSS](https://auroraoss.com/ "https://auroraoss.com/") 🤖 FOSS client for Play Store, get app updates, top charts & much more without having GSF on your device.
+
 ### Games
 - [Retroarch](https://www.retroarch.com "https://www.retroarch.com") 🍎 🪟 🐧 🤖 Frontend for emulators, game engines and media players.
 - [SuperTuxKart](https://supertuxkart.net "https://supertuxkart.net") 🍎 🪟 🐧 🤖 3D arcade racer with a variety characters, tracks, and modes to play.
@@ -231,6 +246,7 @@ sourcing, building, and deploying data science and AI initiatives.
 - [NetherSX2](https://nethersx2.com/ "https://nethersx2.com/") 🤖 🆓 PS2 emulator for android.
 - [Rpcs3](https://rpcs3.net/) 🍎 🪟 🐧 PlayStation 3 Emulator.
 - [Pocket Broomball](https://f-droid.org/en/packages/com.simondalvai.pocketbroomball/ "https://f-droid.org/en/packages/com.simondalvai.pocketbroomball/") 🤖 Broomball video game.
+
 ### Other
 - [Tabby](https://tabby.sh "https://tabby.sh") 🍎 🪟 🐧 Customizable terminal app for local shells, serial, SSH and Telnet connections.
 - [Termux](https://f-droid.org/en/packages/com.termux/ "https://f-droid.org/en/packages/com.termux/") 🤖 Terminal emulator with packages.
