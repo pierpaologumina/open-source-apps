@@ -59,6 +59,7 @@
 - [Kodi](https://kodi.tv "https://kodi.tv") 🍎 🪟 🐧 🤖 Versatile and powerful media player that supports various platforms and device.
 - [Stremio](https://www.stremio.com "https://www.stremio.com") 🍎 🪟 🐧 🤖 📱 🆓 Secure, modern and seamless entertainment experience.
 - [NOVA Video Player](https://f-droid.org/en/packages/org.courville.nova/ "https://f-droid.org/en/packages/org.courville.nova/") 🤖 NOVA Video Player Video player for local/network content with subtitle/metadata download support.
+- [MPV](https://f-droid.org/en/packages/is.xyz.mpv/ "https://f-droid.org/en/packages/is.xyz.mpv/") 🤖 Video player for Android based on libmpv.
 - [Seal](https://f-droid.org/en/packages/com.junkfood.seal/ "https://f-droid.org/en/packages/com.junkfood.seal/") 🤖 Video/Audio downloader designed and themed with Material You.
 - [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/ "https://f-droid.org/en/packages/org.schabi.newpipe/") 🤖 Lightweight YouTube frontend.
 
