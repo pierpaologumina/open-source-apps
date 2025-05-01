@@ -199,6 +199,7 @@ sourcing, building, and deploying data science and AI initiatives.
 Privacy focused translator app built with MD3.
 - [Linkora](https://f-droid.org/en/packages/com.sakethh.linkora/ "https://f-droid.org/en/packages/com.sakethh.linkora/") 🤖 Link utility app.
 - [Ping Utils](https://apt.izzysoft.de/fdroid/index/apk/com.github.axet.pingutils "https://apt.izzysoft.de/fdroid/index/apk/com.github.axet.pingutils") 🤖 Set of network ulitities to test network connection, vpn route, dns, dig, ping, etc.
+- [7zip](https://www.7-zip.org/ "https://www.7-zip.org/") 🪟 File archiver with a high compression ratio.
 
 ### System and Security
 - [Stats](https://github.com/exelban/stats "https://github.com/exelban/stats") 🍎 macOS system monitor in your menu bar.
