@@ -41,7 +41,7 @@
 - [Transistor](https://f-droid.org/en/packages/org.y20k.transistor/ "https://f-droid.org/en/packages/org.y20k.transistor/") 🤖 Transistor is an app for listening to radio stations over the internet.
 - [Voice Audiobook Player](https://f-droid.org/en/packages/de.ph1b.audiobook/ "https://f-droid.org/en/packages/de.ph1b.audiobook/") 🤖 Simple audiobook player.
 - [Harmonoid](https://harmonoid.com/downloads "https://harmonoid.com/downloads") 🪟 🐧 🤖 Plays & manages your music library.
-- [Spotube](https://f-droid.org/en/packages/oss.krtirtho.spotube/ "https://f-droid.org/en/packages/oss.krtirtho.spotube/") 🍎 🪟 🐧 🤖 Lightweight & resource friendly spotify client without requiring Spotify Premium.
+- [Rhythm](https://apt.izzysoft.de/fdroid/index/apk/chromahub.rhythm.app "https://apt.izzysoft.de/fdroid/index/apk/chromahub.rhythm.app") 🤖 Modern Material 3 music player with advanced audio features and seamless offline.
 - [RiMusic](https://f-droid.org/en/packages/it.fast4x.rimusic/ "https://f-droid.org/en/packages/it.fast4x.rimusic/") 🤖 A multilingual Android application for streaming music from YouTube Music.
 - [Audile](https://f-droid.org/en/packages/com.mrsep.musicrecognizer/ "https://f-droid.org/en/packages/com.mrsep.musicrecognizer/") 🤖 Music recognition app.
 - [BlackHole](https://github.com/ExistentialAudio/BlackHole "https://github.com/ExistentialAudio/BlackHole") 🍎 Audio loopback driver for Mac.
@@ -144,6 +144,7 @@ sourcing, building, and deploying data science and AI initiatives.
 - [OpenMTP](https://openmtp.ganeshrvel.com "https://openmtp.ganeshrvel.com") 🍎 Advanced Android file transfer app for macOS.
 - [Syncthing](https://f-droid.org/packages/com.nutomic.syncthingandroid/ "https://f-droid.org/packages/com.nutomic.syncthingandroid/") 🤖 Open, trustworthy and decentralized file synchronization.
 - [LocalSend](https://f-droid.org/en/packages/org.localsend.localsend_app/ "https://f-droid.org/en/packages/org.localsend.localsend_app/") 🍎 🪟 🐧 🤖 📱 🌐 Cross-Platform file sharing solution via WiFi.
+- [OnionShare](https://onionshare.org/#download "https://onionshare.org/#download") 🍎 🪟 🐧 🤖 Securely and anonymously share files, host websites, and chat with friends using the Tor network.
 
 ### Productivity and Utilities
 - [Rectangle](https://rectangleapp.com "https://rectangleapp.com") 🍎 Move and resize windows in macOS using keyboard shortcuts or snap areas.
@@ -159,6 +160,7 @@ sourcing, building, and deploying data science and AI initiatives.
 - [Xournalpp](https://xournalpp.github.io "https://xournalpp.github.io") 🍎 🪟 🐧 🤖 Note-taking software that is fast, flexible, and functional.
 - [CollaNote](https://apps.apple.com/us/app/collanote-notes-pdf-markup/id1540956268 "https://apps.apple.com/us/app/collanote-notes-pdf-markup/id1540956268") 📱 🆓 Free Note-Taking App.
 - [Excalidraw](https://excalidraw.com/ "https://excalidraw.com/") 🌐 Virtual collaborative whiteboard tool.
+- [Drawpile](https://drawpile.net/download "https://drawpile.net/download") 🍎 🪟 🐧 🤖 🌐 A collaborative drawing program.
 - [Exifcleaner](https://exifcleaner.com "https://exifcleaner.com") 🍎 🪟 🐧 Clean metadata from images, videos, PDFs, and other files.
 - [PDF Converter ](https://f-droid.org/en/packages/swati4star.createpdf/ "https://f-droid.org/en/packages/swati4star.createpdf/") 🤖 Create PDF files 
 - [Itsycal](https://www.mowglii.com/itsycal "https://www.mowglii.com/itsycal") 🍎 🆓 Tiny menu bar calendar.
@@ -201,6 +203,9 @@ Privacy focused translator app built with MD3.
 - [Ping Utils](https://apt.izzysoft.de/fdroid/index/apk/com.github.axet.pingutils "https://apt.izzysoft.de/fdroid/index/apk/com.github.axet.pingutils") 🤖 Set of network ulitities to test network connection, vpn route, dns, dig, ping, etc.
 - [7zip](https://www.7-zip.org/ "https://www.7-zip.org/") 🪟 File archiver with a high compression ratio.
 - [Floccus](https://floccus.org/ "https://floccus.org/") 🌐 🤖 📱 Sync bookmarks & tabs privately across browsers and devices.
+- [Organic Maps](https://f-droid.org/packages/app.organicmaps "https://f-droid.org/packages/app.organicmaps") 🤖 Navigate with Privacy. Community-Driven & Open-Source.
+- [Showly](https://apt.izzysoft.de/packages/com.michaldrabik.showly2 "https://apt.izzysoft.de/packages/com.michaldrabik.showly2") 🤖 An open source TV Shows & Movies tracker app that works with Trakt.
+- [MacsyZones](https://macsyzones.com/ "https://macsyzones.com/") 🍎 Organize your windows with ease.
 
 ### System and Security
 - [Stats](https://github.com/exelban/stats "https://github.com/exelban/stats") 🍎 macOS system monitor in your menu bar.
@@ -238,6 +243,7 @@ Privacy focused translator app built with MD3.
 - [qbittorrent](https://www.qbittorrent.org "https://www.qbittorrent.org") 🍎 🪟 🐧 Cross-platform BitTorrent client written in native C++.
 - [Transmissionbt](https://transmissionbt.com "https://transmissionbt.com") 🍎 🪟 🐧 Fast, easy, and free BitTorrent client.
 - [LibreTorrent](https://f-droid.org/packages/org.proninyaroslav.libretorrent "https://f-droid.org/packages/org.proninyaroslav.libretorrent") 🤖 Copylefted libre software torrent client.
+- [Torrent Search](https://f-droid.org/packages/com.prajwalch.torrentsearch/ " ") 🤖 Search and download torrents from multiple sources.
 - [MacYTDL](https://github.com/section83/MacYTDL "https://github.com/section83/MacYTDL") 🍎 GUI front-end for the YT-DLP video downloader.
 - [ytDownloader](https://ytdn.netlify.app "https://ytdn.netlify.app") 🍎 🪟 🐧 Download videos and audios from hundreds of sites.
 - [Soulseek](https://www.slsknet.org/news "https://www.slsknet.org/news") 🍎 🪟 🐧 Free, spyware free, just plain free file sharing network.
