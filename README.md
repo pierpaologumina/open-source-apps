@@ -206,6 +206,7 @@ Privacy focused translator app built with MD3.
 - [Organic Maps](https://f-droid.org/packages/app.organicmaps "https://f-droid.org/packages/app.organicmaps") 🤖 Navigate with Privacy. Community-Driven & Open-Source.
 - [Showly](https://apt.izzysoft.de/packages/com.michaldrabik.showly2 "https://apt.izzysoft.de/packages/com.michaldrabik.showly2") 🤖 An open source TV Shows & Movies tracker app that works with Trakt.
 - [MacsyZones](https://macsyzones.com/ "https://macsyzones.com/") 🍎 Organize your windows with ease.
+- [Hidroly](https://f-droid.org/packages/com.om1cael.hidroly/ "https://f-droid.org/packages/com.om1cael.hidroly/") 🤖 Track your water intake with ease.
 
 ### System and Security
 - [Stats](https://github.com/exelban/stats "https://github.com/exelban/stats") 🍎 macOS system monitor in your menu bar.
