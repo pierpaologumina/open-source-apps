@@ -171,7 +171,7 @@ sourcing, building, and deploying data science and AI initiatives.
 - [Itsycal](https://www.mowglii.com/itsycal "https://www.mowglii.com/itsycal") 🍎 🆓 Tiny menu bar calendar.
 - [MinCal Widget](https://f-droid.org/en/packages/cat.mvmike.minimalcalendarwidget/ "https://f-droid.org/en/packages/cat.mvmike.minimalcalendarwidget/") 🤖 Minimal Calendar Widget.
 - [FlipClock Android](https://github.com/AlynxZhou/flipclock-android "https://github.com/AlynxZhou/flipclock-android") 🤖 The Android wrapper of FlipClock.
-- [PasteBar](https://www.pastebar.app/ "https://www.pastebar.app/") 🍎 🪟 Clipboard Manager.
+- [Maccy](https://maccy.app/ "https://maccy.app/") 🍎 Clipboard Manager.
 - [CopyQ](https://hluk.github.io/CopyQ "https://hluk.github.io/CopyQ") 🍎 🪟 🐧 Clipboard Manager with Advanced Features.
 - [Flameshot](https://flameshot.org "https://flameshot.org") 🍎 🪟 🐧 Powerful screenshot software.
 - [Macshot](https://macshot.io/ "https://macshot.io/") 🍎 Screenshot tool.
@@ -292,4 +292,4 @@ Privacy focused translator app built with MD3.
 - [Magisk](https://github.com/topjohnwu/Magisk "https://github.com/topjohnwu/Magisk") 🤖 Free and open-source software used to root Android devices.
 - [Drinkable](https://f-droid.org/it/packages/com.moimob.drinkable/ "https://f-droid.org/it/packages/com.moimob.drinkable/") 🤖 Explore and create cocktails with ingredients from home.
 - [Buckwheat](https://f-droid.org/en/packages/com.danilkinkin.buckwheat/ "https://f-droid.org/en/packages/com.danilkinkin.buckwheat/") 🤖 App that helps you spend money wisely.
-- [IR Remote](https://f-droid.org/en/packages/us.spotco.ir_remote/ "https://f-droid.org/en/packages/us.spotco.ir_remote/") 🤖 IR TV Remote
+- [IR Remote](https://f-droid.org/en/packages/us.spotco.ir_remote/ "https://f-droid.org/en/packages/us.spotco.ir_remote/") 🤖 IR TV Remote.
