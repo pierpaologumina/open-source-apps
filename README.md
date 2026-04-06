@@ -21,13 +21,14 @@
 - [Games](#games)
 - [Other](#other)
 
-🍎 --> Avaiable for macOS <br> 
+🍎 --> Avaiable for macOS<br> 
 🪟 --> Avaiable for Microsoft Windows<br>
 🐧 --> Avaiable for Linux<br>
 🤖 --> Avaiable for Android<br>
 📱 --> Avaiable for iOS/iPadOS<br>
 🌐 --> Avaiable on Web<br>
-🆓 --> Freemium software
+🆓 --> Freemium software<br>
+🇪🇺 --> Origin Europe(wip)
 
 ## Applications
 ### Multimedia
@@ -113,6 +114,7 @@ sourcing, building, and deploying data science and AI initiatives.
 ### Editors and Notes
 - [Geany](https://www.geany.org "https://www.geany.org") 🍎 🪟 🐧 Powerful, stable and lightweight programmer's text editor.
 - [Standardnotes](https://standardnotes.com "https://standardnotes.com") 🍎 🪟 🐧 🤖 📱 Free, secure note-taking app with powerful end-to-end encryption.
+- [Joplin](https://joplinapp.org/ "https://joplinapp.org/") 🍎 🪟 🐧 🤖 📱 🇪🇺 Open source note-taking app.
 - [FSNotes](https://fsnot.es "https://fsnot.es") 🍎 📱 Modern notes manager for macOS and iOS.
 - [CotEditor](https://coteditor.com "https://coteditor.com") 🍎 The Plain-Text Editor for macOS.
 - [Notepad++](https://notepad-plus-plus.org "https://notepad-plus-plus.org") 🪟 Editor and notepad replacement that supports several languages.
@@ -143,6 +145,7 @@ sourcing, building, and deploying data science and AI initiatives.
 - [Cyberduck](https://cyberduck.io "https://cyberduck.io") 🍎 🪟 Libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client.
 - [WinSCP](https://winscp.net "https://winscp.net") 🪟 🆓 SFTP and FTP client.
 - [OpenMTP](https://openmtp.ganeshrvel.com "https://openmtp.ganeshrvel.com") 🍎 Advanced Android file transfer app for macOS.
+- [SambaLite](https://f-droid.org/packages/de.schliweb.sambalite/ "https://f-droid.org/packages/de.schliweb.sambalite/") 🤖 🇪🇺 A lightweight, modern, and open-source Android client for SMB/CIFS shares.
 - [Syncthing](https://f-droid.org/packages/com.nutomic.syncthingandroid/ "https://f-droid.org/packages/com.nutomic.syncthingandroid/") 🤖 Open, trustworthy and decentralized file synchronization.
 - [LocalSend](https://f-droid.org/en/packages/org.localsend.localsend_app/ "https://f-droid.org/en/packages/org.localsend.localsend_app/") 🍎 🪟 🐧 🤖 📱 🌐 Cross-Platform file sharing solution via WiFi.
 - [OnionShare](https://onionshare.org/#download "https://onionshare.org/#download") 🍎 🪟 🐧 🤖 Securely and anonymously share files, host websites, and chat with friends using the Tor network.
@@ -154,8 +157,9 @@ sourcing, building, and deploying data science and AI initiatives.
 - [Rufus](https://rufus.ie "https://rufus.ie") 🪟 Create bootable USB drives.
 - [Ventoy](https://ventoy.net "https://ventoy.net") 🪟 🐧 Create bootable USB drive for ISO/WIM/IMG/VHD (x)/EFI files.
 - [EtchDroid ISO to USB Writer](https://f-droid.org/en/packages/eu.depau.etchdroid/ "https://f-droid.org/en/packages/eu.depau.etchdroid/") 🤖 Write operating system ISO images to USB drives.
-- [Keka](https://www.keka.io "https://www.keka.io") 🍎 The macOS file archiver.
+- [MacPacker](https://macpacker.app "https://macpacker.app") 🍎 🇪🇺 Preview & Extract Any Archive on macOS
 - [Appcleaner](https://freemacsoft.net/appcleaner "https://freemacsoft.net/appcleaner/") 🍎 🆓 Small application which allows you to thoroughly uninstall unwanted apps.
+- [Mole](https://github.com/tw93/Mole "https://github.com/tw93/Mole") 🍎 Deep clean and optimize your Mac.
 - [Pika](https://superhighfives.com/pika "https://superhighfives.com/pika") 🍎 Colour picker app for macOS.
 - [Openboard](https://openboard.ch/index.en.html "https://openboard.ch/index.en.html") 🍎 🪟 🐧 Interactive whiteboard for schools and universities.
 - [Xournalpp](https://xournalpp.github.io "https://xournalpp.github.io") 🍎 🪟 🐧 🤖 Note-taking software that is fast, flexible, and functional.
@@ -170,7 +174,8 @@ sourcing, building, and deploying data science and AI initiatives.
 - [PasteBar](https://www.pastebar.app/ "https://www.pastebar.app/") 🍎 🪟 Clipboard Manager.
 - [CopyQ](https://hluk.github.io/CopyQ "https://hluk.github.io/CopyQ") 🍎 🪟 🐧 Clipboard Manager with Advanced Features.
 - [Flameshot](https://flameshot.org "https://flameshot.org") 🍎 🪟 🐧 Powerful screenshot software.
-- [Shottr](https://shottr.cc "https://shottr.cc") 🍎 🆓 Screenshot tool.
+- [Macshot](https://macshot.io/ "https://macshot.io/") 🍎 Screenshot tool.
+- [Bettershot](https://www.bettershot.site/ "https://www.bettershot.site/") 🍎 Capture beautiful screenshots effortlessly.
 - [ShareX](https://getsharex.com "https://getsharex.com") 🪟 Screen capture, file sharing and productivity tool.
 - [Droppoint](https://droppoint.netlify.app "https://droppoint.netlify.app") 🍎 🪟 🐧 Drag content without having to open side-by-side windows.
 - [AdvancedRenamer](https://www.advancedrenamer.com "https://www.advancedrenamer.com") 🍎 🪟 🆓 Batch file renaming utility.
@@ -185,6 +190,7 @@ sourcing, building, and deploying data science and AI initiatives.
 - [Converter NOW](https://f-droid.org/packages/com.ferrarid.converterpro/ "https://f-droid.org/packages/com.ferrarid.converterpro/") 🤖 A simple, immediate and fast unit converter.
 - [Binary Eye](https://f-droid.org/packages/de.markusfisch.android.binaryeye/ "https://f-droid.org/packages/de.markusfisch.android.binaryeye/") 🤖 Yet another barcode scanner.
 - [Tasks.org](https://f-droid.org/it/packages/org.tasks/ "https://f-droid.org/it/packages/org.tasks/") 🤖 Private, ad-free task lists! Optional sync with Google Tasks, CalDAV or EteSync.
+- [Habo](https://habo.space/ "https://habo.space/") 📱 🤖 Simple, open-source habit tracker for everyone.
 - [Randomix](https://f-droid.org/en/packages/com.minar.randomix/ "https://f-droid.org/en/packages/com.minar.randomix/") 🤖 An app to randomly choose between numbers, answers, options.
 - [Birday](https://f-droid.org/packages/com.minar.birday/ "https://f-droid.org/packages/com.minar.birday/") 🤖 A simple yet useful birthday manager.
 - [Rustdesk](https://rustdesk.com/ "https://rustdesk.com/") 🍎 🪟 🐧 🤖 🌐 Remote access and support software.
@@ -208,7 +214,8 @@ Privacy focused translator app built with MD3.
 - [Showly](https://apt.izzysoft.de/packages/com.michaldrabik.showly2 "https://apt.izzysoft.de/packages/com.michaldrabik.showly2") 🤖 An open source TV Shows & Movies tracker app that works with Trakt.
 - [MacsyZones](https://macsyzones.com/ "https://macsyzones.com/") 🍎 Organize your windows with ease.
 - [Hidroly](https://f-droid.org/packages/com.om1cael.hidroly/ "https://f-droid.org/packages/com.om1cael.hidroly/") 🤖 Track your water intake with ease.
-- [Airplanes.live](https://apt.izzysoft.de/packages/eu.darken.apl "https://apt.izzysoft.de/packages/eu.darken.apl") 🤖 Aviation enthusiasts. This is an Android app for airplanes.live. 
+- [Airplanes.live](https://apt.izzysoft.de/packages/eu.darken.apl "https://apt.izzysoft.de/packages/eu.darken.apl") 🤖 Aviation enthusiasts. This is an Android app for airplanes.live.
+- [Handy](https://handy.computer/ "https://handy.computer/") 🍎 🪟 🐧 The free and open source app for speech to text.
 
 ### System and Security
 - [Stats](https://github.com/exelban/stats "https://github.com/exelban/stats") 🍎 macOS system monitor in your menu bar.
@@ -224,13 +231,13 @@ Privacy focused translator app built with MD3.
 - [Battery](https://github.com/actuallymentor/battery "https://github.com/actuallymentor/battery") 🍎 CLI/GUI for managing the battery charging status for Apple silicon Macs. 
 - [OnlySwitch](https://github.com/jacklandrin/OnlySwitch "https://github.com/jacklandrin/OnlySwitch") 🍎 Provides a series of toggle switches to simplify your routine work.
 - [KeepingYouAwake](https://keepingyouawake.app "https://keepingyouawake.app") 🍎 Prevents your Mac from going to sleep.
-- [SquirrelDisk](https://www.squirreldisk.com "https://www.squirreldisk.com") 🍎 🪟 🐧 The easiest app you will ever use to detect huge files.
 - [UTM](https://mac.getutm.app "https://mac.getutm.app") 🍎 Securely run operating systems on your Mac.
 - [VirtualBox](https://www.virtualbox.org/ "https://www.virtualbox.org/") 🍎 🪟 🐧 General-purpose full virtualization software.
 - [Qemu](https://qemu.org/ "https://qemu.org/") 🍎 🪟 🐧 A generic and open source machine emulator and virtualizer.
+- [WinBoat](https://www.winboat.app/ "https://www.winboat.app/") 🐧 🇪🇺 Run Windows apps on Linux with seamless integration.
 - [Rustdesk](https://rustdesk.com "https://rustdesk.com") 🍎 🪟 🐧 🤖 📱 The fast open-source remote access and support software.
 - [Tunnelblick](https://tunnelblick.net "https://tunnelblick.net") 🍎 Free software for OpenVPN on macOS.
-- [AdAway](https://f-droid.org/en/packages/org.adaway/ "https://f-droid.org/en/packages/org.adaway/") 🤖 A free and Open Source ad blocker for Android.
+- [personalDNSfilter](https://f-droid.org/packages/dnsfilter.android/ "https://f-droid.org/packages/dnsfilter.android/") 🤖 🇪🇺 DNS request based Host Blocker over local VPN using a Blocklist.
 - [Pi-hole](https://pi-hole.net/ "https://pi-hole.net/") 🐧 Network-wide Ad Blocking
 - [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome "https://github.com/AdguardTeam/AdGuardHome") 🐧 Network-wide ads & trackers blocking DNS server.
    - [Firebog](https://firebog.net/ "https://firebog.net/") 🌐 The big blocklist collection.
@@ -241,6 +248,8 @@ Privacy focused translator app built with MD3.
 - [CPU Info](https://f-droid.org/en/packages/com.kgurgul.cpuinfo/ "https://f-droid.org/en/packages/com.kgurgul.cpuinfo/") 🤖 Information about device hardware and software.
 - [Putty](https://www.putty.org) 🪟 SSH and telnet client.
 - [Mobaxterm](https://mobaxterm.mobatek.net/) 🪟 🆓 Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more.
+- [Lawnchair](https://lawnchair.app/ "https://lawnchair.app/") 🤖 Launcher for Android.
+- [Kvaesitso](https://kvaesitso.mm20.de/ "https://kvaesitso.mm20.de/") 🤖 🇪🇺 A search-focused, free and open source launcher.
 
 ### Backup and Downloader
 - [qbittorrent](https://www.qbittorrent.org "https://www.qbittorrent.org") 🍎 🪟 🐧 Cross-platform BitTorrent client written in native C++.
@@ -248,12 +257,15 @@ Privacy focused translator app built with MD3.
 - [LibreTorrent](https://f-droid.org/packages/org.proninyaroslav.libretorrent "https://f-droid.org/packages/org.proninyaroslav.libretorrent") 🤖 Copylefted libre software torrent client.
 - [Torrent Search](https://f-droid.org/packages/com.prajwalch.torrentsearch/ " ") 🤖 Search and download torrents from multiple sources.
 - [MacYTDL](https://github.com/section83/MacYTDL "https://github.com/section83/MacYTDL") 🍎 GUI front-end for the YT-DLP video downloader.
+- [Macabolic](https://alinuxpengui.github.io/Macabolic/ "https://alinuxpengui.github.io/Macabolic/") 🍎 A native macOS app for downloading videos from YouTube and thousands of other sites.
 - [ytDownloader](https://ytdn.netlify.app "https://ytdn.netlify.app") 🍎 🪟 🐧 Download videos and audios from hundreds of sites.
 - [Soulseek](https://www.slsknet.org/news "https://www.slsknet.org/news") 🍎 🪟 🐧 Free, spyware free, just plain free file sharing network.
 - [Abdownloadmanager](https://abdownloadmanager.com/) 🪟 🐧 Download manager.
 
 ### Repository and Package Manager
+- [AppMan](https://github.com/ivan-hc/AppMan "https://github.com/ivan-hc/AppMan") 🐧 AppImage Package Manager.
 - [Homebrew](https://brew.sh "https://brew.sh") 🍎 The Missing Package Manager for macOS.
+- [WailBrew](https://www.wailbrew.app/ "https://www.wailbrew.app/") 🍎 🇪🇺 A minimalistic and beautiful GUI for Homebrew package management.
 - [Scoop](https://scoop.sh "https://scoop.sh") 🪟 A command-line installer for Windows.
 - [F-Droid](https://f-droid.org/ "https://f-droid.org/") 🤖 F-Droid is an installable catalogue of FOSS applications for the Android platform.
 - [IzzyOnDroid](https://apt.izzysoft.de/fdroid/ "https://apt.izzysoft.de/fdroid/") 🤖 This is the F-Droid Repository by IzzyOnDroid.
